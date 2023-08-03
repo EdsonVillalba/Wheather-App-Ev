@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
       <head>
         <link
           rel="stylesheet"
-          href={LINK}
+          href={LINK} 
         />
       </head>
       <body className={inter.className}>{children}</body>
