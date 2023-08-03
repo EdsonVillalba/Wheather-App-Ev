@@ -1,5 +1,6 @@
 # Wheather-App-Ev
 ProyectoFinal Next.JS Funval 2023 Nivel 2
+
 📝 Estos son los puntos que se tomaron en cuenta para la realizacion del proyecto: 
         • El diseño debe ser 100% responsive. • El diseño debe ser lo más fiel posible al proporcionado en el archivo Figma 
           link del archivo figma <https://www.figma.com/file/5X3Ao3gEqZPqqKctP7riDF?chrome=DOCUMENTATION&embed_host=astra&kind=&node-id=0%3A1&viewer=1>
@@ -14,6 +15,7 @@ ProyectoFinal Next.JS Funval 2023 Nivel 2
 📌En resumen, el código muestra diferentes componentes ordenados por carpetas en formatos jsx que se utilizan para construir la Wheather App. Cada componente tiene su propia funcionalidad y estilos para crear una experiencia de usuario cohesiva.
 
 📌 la API usada para este proyecto fue <https://openweathermap.org/api> con la cual se muestran las siguientes caracteristicas: 
+
 ⚙️Muestra el clima de una ciudad por defecto.
 ⚙️Puede buscar por ciudad y país.
 ⚙️Puede ver el clima de hoy y los próximos 5 días.
