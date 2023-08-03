@@ -1,5 +1,5 @@
 'use client'
-import classes from '../app/page.module.css'
+import classes from './page.module.css'
 import Page from '@/components/Page/Page';
 import Section from '@/components/Section/Section';
 import { ForecastStorePro } from '@/components/Forecast/Forecast';
